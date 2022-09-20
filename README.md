@@ -1,12 +1,9 @@
 # shitify-windows
 
-![GitHub license](https://img.shields.io/badge/license-CC0%201.0%20Universal-lightgreen)
-
-![GitHub top language](https://img.shields.io/github/languages/top/defirence/shitify-windows)
-![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/defirence/shitify-windows)
 ![GitHub last commit](https://img.shields.io/github/last-commit/defirence/shitify-windows)
-![GitHub All Releases](https://img.shields.io/github/downloads/defirence/shitify-windows/total)
-![GitHub Release Date](https://img.shields.io/github/release-date/defirence/shitify-windows)
+![GitHub license](https://img.shields.io/badge/license-CC0%201.0%20Universal-darkgreen)
+![GitHub tag (latest SemVer)](https://img.shields.io/github/v/tag/Defirence/shitify-windows?color=9cf)
+![GitHub release (by tag)](https://img.shields.io/github/downloads/Defirence/shitify-windows/0.0.1/total?color=grey)
 
 >#### Description:
 Pre-written Batch/.bat script to kill the Spotify process tree on Windows. (Linux + MacOS are unaffected.)
