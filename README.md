@@ -11,7 +11,7 @@
 >#### Description:
 Pre-written Batch/.bat script to kill the Spotify process tree on Windows. (Linux + MacOS are unaffected.)
 
-Pre-compiled .exe executable file included in [Releases](https://github.com/Defirence/shitify-windows/releases) or a [Direct Link for the latest release](https://)
+Pre-compiled .exe executable file included in [Releases](https://github.com/Defirence/shitify-windows/releases) or a [Direct Link for the latest release](https://github.com/Defirence/shitify-windows/releases/download/0.0.1/shitify-win-v0.0.1.exe)
 
 >#### Usage:
 Run the `.bat` or `.exe` file normally whenever Spotify crashes, or won't re-open/close.
