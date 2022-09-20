@@ -1,0 +1,3 @@
+[submodule "batch.scripts"]
+	path = batch.scripts
+	url = https://github.com/npocmaka/batch.scripts
